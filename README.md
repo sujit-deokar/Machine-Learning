@@ -1,2 +1,2 @@
 # Machine-Learning
-Presentation of lecture series for machine learning.
+Projects on for machine learning.
