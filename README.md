@@ -1,2 +1,2 @@
 # Machine-Learning
-Projects on for machine learning.
+Practice projects on machine learning.
